@@ -108,7 +108,7 @@
                 {
                  "name":"google",
                  "type":"file",
-                 "value":"http:\/\/www.google.de\/"
+                 "value":"google.url\/"
                 }],
          "type":"tilelayer",
          "visible":true,
